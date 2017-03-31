@@ -57,7 +57,7 @@
  # its bug from lineageos http://www.lineageosrom.com/2017/02/fix-file-manager-cant-access-sd-card-on.html?m=1 all of rom using lineageos as base have same issue.
  
  * its fake android nougat? i didnt see infinix release nougat for infinix note 2
- # this rom is unofficial, means porting from other devices
+ # this rom is unofficial, means porting from other devices, hat do u think?
  
  * too much bug, wtf was that
  # im so sorry sir, my knowledge is limited, im not working for infinix or other vendor, my job not for android only, i porting just for hobby, u can take it or leave it, its our choice 
