@@ -56,6 +56,9 @@
  * i cant access my sdcard using stock filemanager?
  # its bug from lineageos http://www.lineageosrom.com/2017/02/fix-file-manager-cant-access-sd-card-on.html?m=1 all of rom using lineageos as base have same issue.
  
+ * i cant make video recording?
+ # use camu or cameringo+ app
+ 
  * in teslaOS im facing system ui has stoped during setup wizard
  # screen lock our phone 1-2 min, and turn on aggain
  
