@@ -56,6 +56,9 @@
  * i cant access my sdcard using stock filemanager?
  # its bug from lineageos http://www.lineageosrom.com/2017/02/fix-file-manager-cant-access-sd-card-on.html?m=1 all of rom using lineageos as base have same issue.
  
+ * in teslaOS im facing system ui has stoped during setup wizard
+ # screen lock our phone 1-2 min, and turn on aggain
+ 
  * its fake android nougat? i didnt see infinix release nougat for infinix note 2
  # this rom is unofficial, means porting from other devices, hat do u think?
  
