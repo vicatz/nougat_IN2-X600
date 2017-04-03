@@ -1,29 +1,32 @@
 # nougat_IN2-X600
 <h1>Installation :<h1>
 
-  1) wipe cache.
-  2) wipe dalvik cache
-  3) wipe data	
-  4) wipe system
-  5) flash rom
-  6) flash gapps
-  7) flash patch B1/D1 or H532 (user Note 2 pro A1 skip this step)
-  8) flash fix xxxx (if any)
-  9) if u facing errors during installation please see FAQ
+1) wipe cache.
+2) wipe dalvik cache
+3) wipe data	
+4) wipe system
+5) flash rom
+6) flash gapps
+7) flash patch B1/D1 or H532 (user Note 2 pro A1 skip this step)
+8) flash fix xxxx (if any)
+9) if u facing errors during installation please see FAQ
   
   
   
 <h1>Bug :<h1>
 
-  1) livedisplay
-  2) adaptive brightness
-  3) Not fully working codecs
-  4) no FM radio
-  5) no dt2w/wake gesture
-  6) otg not tested
-  7) bluetooth audio not tested
-  8) other bug can be fix, see FAQ
-  9) maybe more
+1) livedisplay
+2) adaptive brightness
+3) Not fully working codecs
+4) no FM radio
+5) no dt2w/wake gesture
+6) otg not tested
+7) bluetooth audio not tested
+8) other bug can be fix, see FAQ
+9) cant sign BBM whatever using data or wifi
+10) GPS
+11) Offline Charging
+12) maybe more
   
   
   <h1>Patch & Fix Downloads :<h1>
@@ -32,9 +35,7 @@
   2) Modem patch for infinix note 2 1gb variant aka H532: https://goo.gl/sSrg5x
   3) Gapps: http://opengapps.org/ (choose arm64>7.1>pico)
   4) Fix Wifi Nvram-Error-0x10: https://goo.gl/OaQDts
-  5) Fix GPS & Offline charging: https://goo.gl/TkJSjY
-  
-  
+  
 
 <h1>FAQ:<h1>
 
