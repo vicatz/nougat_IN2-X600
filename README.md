@@ -15,17 +15,17 @@
   
 <h1>Bug :<h1>
 
-1) livedisplay
-2) adaptive brightness
-3) Not fully working codecs
+1) l̶i̶v̶e̶d̶i̶s̶p̶l̶a̶y̶
+2) a̶d̶a̶p̶t̶i̶v̶e̶ ̶b̶r̶i̶g̶h̶t̶n̶e̶s̶s̶
+3) Video codec is 80%
 4) no FM radio
 5) no dt2w/wake gesture
 6) otg not tested
 7) bluetooth audio not tested
 8) other bug can be fix, see FAQ
-9) cant sign BBM whatever using data or wifi
-10) GPS
-11) Offline Charging
+9) c̶a̶n̶t̶ ̶s̶i̶g̶n̶ ̶B̶B̶M̶ ̶w̶h̶a̶t̶e̶v̶e̶r̶ ̶u̶s̶i̶n̶g̶ ̶d̶a̶t̶a̶ ̶o̶r̶ ̶w̶i̶f̶i̶
+10) O̶f̶f̶l̶i̶n̶e̶ ̶&̶ ̶O̶n̶l̶i̶n̶e̶ ̶G̶P̶S̶
+11) O̶f̶f̶l̶i̶n̶e̶ ̶C̶h̶a̶r̶g̶i̶n̶g̶
 12) maybe more
   
   
@@ -69,8 +69,12 @@
  * too much bug, wtf was that
  # im so sorry sir, my knowledge is limited, im not working for infinix or other vendor, my job not for android only, i porting just for hobby, u can take it or leave it, its our choice 
  
+ * Why im facing Bootlop?
+ # its have two possibilities
+ 1. please read carefully about istallation procedure
+ 2. make sure MD5 of ZIp rom u downloaded is matched with my MD5 in androidfilehost ex: https://www.androidfilehost.com/?fid=889764386195917377 if u see this link u will see md5 with red color is "db797166bbc30bf84d80bceafd4c23f5"
+ 
  
  
  <h1>Closing<h1>
- 
  <h3>I would thank u to all the people who supported me till now, either in positive or negative way, i hope u enjoy with my rom, will fix other bug later if i know<h3>
