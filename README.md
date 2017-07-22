@@ -37,7 +37,7 @@
   4) Fix Wifi Nvram-Error-0x10: https://goo.gl/OaQDts
   
 
-<h1>FAQ:<h1>
+<h1>FAq:<h1>
 
  * wtf why im here?
  # because u are going to flash my nougat rom
